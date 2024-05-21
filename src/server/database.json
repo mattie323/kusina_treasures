@@ -1,0 +1,48 @@
+{
+  "recipes": [
+    {
+      "id": "718d",
+      "title": "How To Make Lumpia (HTML)",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": "de6a",
+      "title": "Arroz Caldo",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": "f7a6",
+      "title": "Dinuguan",
+      "description": "Dinuguan is the Filipino version of blood stew. Pork slices are sautéed in onion and garlic and cooked with pork blood. Sometimes, pork innards such as the small and large intestines along with other internal parts of the pig are added. How to Cook Dinuguan Start by sautéing garlic and onion. "
+    },
+    {
+      "id": "5161",
+      "title": "Adobo",
+      "description": "It is a dish composed of pork slices cooked in soy sauce, vinegar, and garlic. There are version wherein onions are also added. Adobo, in general, can be cooked using different kinds of protein. Chicken is the commonly used ingredient."
+    },
+    {
+      "id": "92de",
+      "title": "Kare-Kare (Filipino Curry)",
+      "description": "Kare Kare is a traditional Filipino stew complimented with a thick savory peanut sauce. The commonly used meats for this dish are ox tail, tripe, and pork leg; on some occasions goat and chicken meat are also used. Besides the peanuts, this dish depends on the shrimp paste (on the side) in order to be fully enjoyed. Traditionally, “palayok” (clay cooking pot) is used to cook this dish and it is also used as the serving pot."
+    },
+    {
+      "id": "1d00",
+      "title": "Pinakbet (Filipino Vegetable Stew)",
+      "description": "Pinakbet is a pungent Filipino vegetable stew made by simmering a variety of vegetables with shrimp or lechon kawali (crispy fried pork belly) in a fermented seafood-infused broth."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "99d8",
+      "name": "Jang goe",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "rating": 4
+    },
+    {
+      "id": "7317",
+      "name": "Beng Jing",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "rating": 3
+    }
+  ]
+}
